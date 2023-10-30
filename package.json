@@ -1,0 +1,29 @@
+{
+  "name": "@baliestri/parcel-config-essential",
+  "version": "0.0.0",
+  "description": "Parcel.js configuration with essential-only plugins for libraries.",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "parcel": ">=2.x.x"
+  },
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baliestri/parcel-config-essential.git"
+  },
+  "keywords": [
+    "parcel",
+    "parceljs",
+    "parcel.js",
+    "parcel-bundler",
+    "config",
+    "configuration",
+    "essential",
+    "library",
+    "libraries"
+  ],
+  "author": "Bruno Sales <me@baliestri.dev>",
+  "license": "MIT"
+}
