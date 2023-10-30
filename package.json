@@ -1,6 +1,6 @@
 {
   "name": "@baliestri/parcel-config-essential",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "description": "Parcel.js configuration with essential-only plugins for libraries.",
   "publishConfig": {
     "access": "public"
